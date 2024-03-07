@@ -37,13 +37,20 @@ console.log(operaciones.division(25,5));
 //npm instal moment
 //npm i express
 
+//Actualización de dependencias y políticas
 //Y si lo quiero borrar: npm uninstall moment
 
 //Instalamos dependencias de desarrollo.(Esta dependencia solo la usamos en etapa de desarrollo)
 
 //npm i nodemon -D
 
-//Actualización de dependencias y políticas
+let cliente = "firulais";
+console.log(cliente);
 
 //Los scripts son comandos personalizados por nosotros mismos
-//Para ejecutarlos se colocan
+//Para ejecutarlos coloquen la palabrita "run" antes. Menos en start.
+
+//Si queres revisar las dependencias globales:
+//npm outdated -g
+//npm update -g
+
