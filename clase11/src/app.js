@@ -1,4 +1,6 @@
-//CLASE 11
+//CHAT COMUNITARIO COMISIÓN 53130
+//Instalamos nodemon -D
+//express socket.io express-handlebars
 
 const express = require("express");
 const exphbs = require("express-handlebars");
